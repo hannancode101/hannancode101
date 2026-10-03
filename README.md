@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
 <h3 align="center">Data Science Student @ UET Lahore | Python, SQL & Core CS Concepts</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannancode101&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hannancode101" />
-</p>
 
 ---
 
@@ -44,9 +41,7 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hannancode101&theme=flat&column=6" alt="trophies" />
-</p>
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hannancode101&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
